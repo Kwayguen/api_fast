@@ -1,0 +1,16 @@
+
+
+API fast API
+
+Model prediction de qui est marié
+(notebook)
+
+ajout de ce modele sur l'API
+(model.pkl)
+
+deploiement de l'api sur docker
+(run.sh)
+
+
+
+
