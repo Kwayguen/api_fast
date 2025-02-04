@@ -11,6 +11,6 @@ ajout de ce modele sur l'API
 deploiement de l'api sur docker
 (run.sh)
 
-
+lancer ngrok et taper ngrok http 8000 (port de l'api)
 
 
